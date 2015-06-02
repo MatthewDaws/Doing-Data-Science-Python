@@ -4,10 +4,7 @@ This is an introductory chapter, and features two case studies: one (simulated) 
 
 Probably I'll come back to this as I learn more.  For now, we have some IPython notebooks:
 
-- NYT raw Python: Load the NYT data set and produce some plots, using just basic Python, numpy and matplotlib
-
 
 ## TODO ##
 
-- Pandas version of NYT
 - RealDirect case study
